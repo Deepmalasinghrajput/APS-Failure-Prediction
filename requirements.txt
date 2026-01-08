@@ -1,0 +1,9 @@
+pymongo==4.2.0
+numpy 
+pandas 
+seaborn
+scikit-learn 
+setuptools
+matplotlib
+
+-e .
